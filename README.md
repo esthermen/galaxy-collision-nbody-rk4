@@ -55,5 +55,5 @@ Computational Physics & Simulation
 
 ## Simulation Preview
 
-![Galaxy Simulation](galaxy_simulation.gif)
+![Galaxy Simulation](media/galaxy_simulation.gif)
 
