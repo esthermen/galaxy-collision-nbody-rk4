@@ -52,3 +52,8 @@ Author
 
 Esther Menéndez
 Computational Physics & Simulation
+
+## Simulation Preview
+
+![Galaxy Simulation](media/galaxy_simulation.gif)
+
